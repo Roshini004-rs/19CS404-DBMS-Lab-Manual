@@ -1,5 +1,6 @@
 # Experiment 3: DML Commands
-
+## Name:Roshini S
+## Reg.no:212223230174
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
