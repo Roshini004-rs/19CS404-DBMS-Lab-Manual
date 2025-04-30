@@ -156,6 +156,8 @@ FROM orders;
 **Output:**
 
 ![image](https://github.com/user-attachments/assets/9c2da4d5-7495-4340-9dfa-0e4cbebd9bb9)
+
+
 **Question 7**
 ---
 Write a SQL query to Calculate the average email length (in characters) for people who lives in Mumbai city
